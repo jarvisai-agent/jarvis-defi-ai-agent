@@ -1,0 +1,22 @@
+/* 重置默认样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#root {
+    width: 100vw;
+    height: 100vh;
+}
+
+/* 移除之前的 logo 相关样式 */
+.logo, .card, .read-the-docs {
+    display: none;
+}

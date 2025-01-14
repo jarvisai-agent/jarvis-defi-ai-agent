@@ -1,0 +1,47 @@
+.coin-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.coin-form h3 {
+  /* text-align: center; */
+  margin-bottom: 24px;
+}
+
+.form-group {
+  margin-bottom: 16px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.form-group textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+.create-coin-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #1a1a1a;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 16px;
+}
+
+.create-coin-btn:hover {
+  background-color: #2a2a2a;
+} 
