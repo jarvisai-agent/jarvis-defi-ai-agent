@@ -49,7 +49,7 @@ Security is our top priority. All smart contracts are audited by leading securit
 
 ## Community
 
-- [Twitter](https://twitter.com/jarvis)
+- [Twitter](https://twitter.com/jarvisai_defi)
 
 ## License
 
